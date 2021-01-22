@@ -1,0 +1,6 @@
+E:\IT\projects\finiteautomata0\FiniteAutomata0\MoGra\bin\Release\MoGra.dll
+E:\IT\projects\finiteautomata0\FiniteAutomata0\MoGra\bin\Release\MoGra.pdb
+E:\IT\projects\finiteautomata0\FiniteAutomata0\MoGra\obj\Release\MoGra.csprojAssemblyReference.cache
+E:\IT\projects\finiteautomata0\FiniteAutomata0\MoGra\obj\Release\MoGra.csproj.CoreCompileInputs.cache
+E:\IT\projects\finiteautomata0\FiniteAutomata0\MoGra\obj\Release\MoGra.dll
+E:\IT\projects\finiteautomata0\FiniteAutomata0\MoGra\obj\Release\MoGra.pdb

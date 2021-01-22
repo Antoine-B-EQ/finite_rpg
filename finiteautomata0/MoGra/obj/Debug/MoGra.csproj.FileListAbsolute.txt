@@ -1,0 +1,11 @@
+E:\IT\projects\finiteautomata0\FiniteAutomata0\MoGra\bin\Debug\MoGra.dll
+E:\IT\projects\finiteautomata0\FiniteAutomata0\MoGra\bin\Debug\MoGra.pdb
+E:\IT\projects\finiteautomata0\FiniteAutomata0\MoGra\obj\Debug\MoGra.csproj.CoreCompileInputs.cache
+E:\IT\projects\finiteautomata0\FiniteAutomata0\MoGra\obj\Debug\MoGra.dll
+E:\IT\projects\finiteautomata0\FiniteAutomata0\MoGra\obj\Debug\MoGra.pdb
+E:\IT\projects\csharp\finiteautomata0\FiniteAutomata0\MoGra\bin\Debug\MoGra.dll
+E:\IT\projects\csharp\finiteautomata0\FiniteAutomata0\MoGra\bin\Debug\MoGra.pdb
+E:\IT\projects\csharp\finiteautomata0\FiniteAutomata0\MoGra\obj\Debug\MoGra.csprojAssemblyReference.cache
+E:\IT\projects\csharp\finiteautomata0\FiniteAutomata0\MoGra\obj\Debug\MoGra.csproj.CoreCompileInputs.cache
+E:\IT\projects\csharp\finiteautomata0\FiniteAutomata0\MoGra\obj\Debug\MoGra.dll
+E:\IT\projects\csharp\finiteautomata0\FiniteAutomata0\MoGra\obj\Debug\MoGra.pdb

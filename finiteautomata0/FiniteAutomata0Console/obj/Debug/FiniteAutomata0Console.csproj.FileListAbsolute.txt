@@ -1,0 +1,10 @@
+E:\IT\projects\finiteautomata0\FiniteAutomata0\FiniteAutomata0Console\obj\Debug\FiniteAutomata0Console.csprojAssemblyReference.cache
+E:\IT\projects\finiteautomata0\FiniteAutomata0\FiniteAutomata0Console\obj\Debug\FiniteAutomata0Console.csproj.CoreCompileInputs.cache
+E:\IT\projects\finiteautomata0\FiniteAutomata0\FiniteAutomata0Console\bin\Debug\FiniteAutomata0Console.exe.config
+E:\IT\projects\finiteautomata0\FiniteAutomata0\FiniteAutomata0Console\bin\Debug\FiniteAutomata0Console.exe
+E:\IT\projects\finiteautomata0\FiniteAutomata0\FiniteAutomata0Console\bin\Debug\FiniteAutomata0Console.pdb
+E:\IT\projects\finiteautomata0\FiniteAutomata0\FiniteAutomata0Console\bin\Debug\MoGra.dll
+E:\IT\projects\finiteautomata0\FiniteAutomata0\FiniteAutomata0Console\bin\Debug\MoGra.pdb
+E:\IT\projects\finiteautomata0\FiniteAutomata0\FiniteAutomata0Console\obj\Debug\FiniteAutomata0Console.csproj.CopyComplete
+E:\IT\projects\finiteautomata0\FiniteAutomata0\FiniteAutomata0Console\obj\Debug\FiniteAutomata0Console.exe
+E:\IT\projects\finiteautomata0\FiniteAutomata0\FiniteAutomata0Console\obj\Debug\FiniteAutomata0Console.pdb
